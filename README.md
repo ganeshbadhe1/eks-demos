@@ -1,3 +1,3 @@
 # eks-demos
 Readme file
-Readme file to be updated
+updated file for practice
